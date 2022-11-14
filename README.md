@@ -65,7 +65,7 @@ Un vote appartient à une réponse. Une réponse peut avoir plusieurs votes. Un 
 
 ### 1.7. Quand un utilisateur répond à une question, il ne peut choisir qu’une seule réponse. Comment pouvez-vous implémenter cela dans votre base de données?
 
-Ex: Pour un sondage: "Les capitales du monde", à la question: "Quelle est la capitale de la France ?", nous avons les réponses: "Paris", "Bruxelles", "Amsterdam". Nous voulons faire sorte qu'un utilisateur qu'une seule réponse à la question.
+Ex: Pour un sondage: "Les capitales du monde", à la question: "Quelle est la capitale de la France ?", nous avons les réponses: "Paris", "Bruxelles", "Amsterdam". Nous voulons faire sorte qu'un utilisateur puisse choisir qu'une seule réponse à la question.
 
 ## Exercice 2: Création d'une base de données d'une application de gestion de tâches comme Trello
 
