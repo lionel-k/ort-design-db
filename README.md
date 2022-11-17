@@ -179,4 +179,6 @@ Une pièce jointe appartient à un utilisateur. Un utilisateur peut créer plusi
 
 ## Exercice 4 : Création d'une base de données d'une application de gestion d'une école
 
+Nous avons créer une base de données permettant les emplois du temps des professeurs d'une école.
+
 ![Emploi du temps](emploi-du-temps.png)
