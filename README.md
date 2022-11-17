@@ -176,3 +176,7 @@ Une pièce jointe appartient à un utilisateur. Un utilisateur peut créer plusi
 - Un livre emprunté peut être prolongé une seule fois.
 - Un bibliothécaire peut emprunter un livre.
 - Il est possible de savoir quel bibliothécaire a authorisé un emprunt.
+
+## Exercice 4 : Création d'une base de données d'une application de gestion d'une école
+
+![Emploi du temps](emploi-du-temps.png)
