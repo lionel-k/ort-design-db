@@ -182,3 +182,9 @@ Une pièce jointe appartient à un utilisateur. Un utilisateur peut créer plusi
 Nous avons créer une base de données permettant les emplois du temps des professeurs d'une école.
 
 ![Emploi du temps](emploi-du-temps.png)
+
+### 4.1 Lister l'ensemble des cas d'utilisation de l'application
+
+### 4.2 Créer le schéma de la base de données
+
+### 4.3 Ajouter des entrées dans la base de données
