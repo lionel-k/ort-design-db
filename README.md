@@ -187,4 +187,15 @@ Nous avons créer une base de données permettant les emplois du temps des profe
 
 ### 4.2 Créer le schéma de la base de données
 
-### 4.3 Ajouter des entrées dans la base de données
+### 4.3 Ajouter des entrées dans la base de données de la semaine 2 de votre calendrier
+
+
+## Exercice 5: Création d'une base de données pour une entreprise de vente en ligne
+
+Vous êtes en train de créer un modèle de base de données pour une entreprise de vente en ligne. L'entreprise vend des produits de différentes catégories (par exemple, vêtements, électronique, jouets, etc.), et chaque produit est décrit par un nom, une description, un prix et une image.
+
+Les clients peuvent s'inscrire sur le site pour créer un compte, et ils peuvent effectuer des achats en utilisant leur carte de crédit ou leur compte PayPal. Chaque client est décrit par un nom, un prénom, une adresse e-mail et une adresse postale.
+
+Les commandes sont enregistrées dans la base de données, ainsi que les détails de chaque commande (produits achetés, quantités, prix total, etc.).
+
+Votre tâche consiste à créer un schéma de base de données qui représente ces données de manière efficace. Vous devrez déterminer quelles tables seront nécessaires et comment elles seront liées entre elles.
