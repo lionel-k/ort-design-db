@@ -189,6 +189,19 @@ Nous avons créer une base de données permettant les emplois du temps des profe
 
 ### 4.3 Ajouter des entrées dans la base de données de la semaine 2 de votre calendrier
 
+### 4.4 Ecrivez les requêtes SQL permettant de répondre aux questions suivantes
+
+1. Écrivez une requête pour récupérer les noms de tous les enseignants et les noms des cours qu'ils ont enseignés dans la table `lessons`, triés par ordre alphabétique du nom de l'enseignant.
+
+2. Écrivez une requête pour récupérer les noms de tous les cours, les noms des UE auxquels ils appartiennent et le nombre d'évaluations de chaque UE dans les tables `courses` et `ues`.
+
+3. Écrivez une requête pour récupérer les noms de tous les créneaux et les noms des emplacements où des cours sont planifiés dans les tables `slots` et `locations`.
+
+4. Écrivez une requête pour compter le nombre de cours enseignés dans chaque emplacement, trié par le nombre de cours par ordre décroissant.
+
+5. Écrivez une requête pour récupérer les noms de tous les enseignants et le nombre total d'heures qu'ils ont enseignées dans des interventions et des cours dans les tables `teachers`, `interventions` et `lessons`, trié par le nombre total d'heures par ordre décroissant.
+
+
 
 ## Exercice 5: Création d'une base de données pour une entreprise de vente en ligne
 
